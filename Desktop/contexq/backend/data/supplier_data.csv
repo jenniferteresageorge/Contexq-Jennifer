@@ -1,0 +1,46 @@
+supplier_id,supplier_name,product_id,lead_time_days,reliability_score
+1,"Moreno, Mays and Cooper",7,1,0.89
+1,"Moreno, Mays and Cooper",14,28,0.85
+1,"Moreno, Mays and Cooper",20,8,0.7
+2,Hernandez-Brady,23,6,0.85
+2,Hernandez-Brady,20,16,0.87
+2,Hernandez-Brady,25,12,0.73
+3,"Jones, Decker and Miller",24,28,0.89
+4,Mitchell-Dalton,3,25,0.72
+4,Mitchell-Dalton,26,21,0.98
+4,Mitchell-Dalton,23,5,0.8
+5,Chavez PLC,4,1,0.97
+5,Chavez PLC,1,11,0.78
+6,Powell-Ellis,2,9,0.92
+6,Powell-Ellis,17,14,0.85
+6,Powell-Ellis,10,17,0.81
+7,Mcfarland-Dickson,20,29,0.87
+7,Mcfarland-Dickson,19,14,1.0
+7,Mcfarland-Dickson,24,19,0.93
+8,"Valdez, Morris and Hill",6,12,0.87
+8,"Valdez, Morris and Hill",11,18,0.81
+8,"Valdez, Morris and Hill",25,21,0.92
+9,"Silva, Powell and King",7,12,0.98
+9,"Silva, Powell and King",11,15,0.79
+9,"Silva, Powell and King",30,2,0.85
+10,Koch Group,23,16,0.93
+10,Koch Group,22,26,0.87
+10,Koch Group,4,12,0.86
+11,"Smith, Frazier and Taylor",19,14,0.73
+12,Smith PLC,21,3,0.89
+13,"Perez, Torres and Smith",26,16,0.95
+13,"Perez, Torres and Smith",21,30,0.74
+13,"Perez, Torres and Smith",12,1,0.88
+14,Valencia LLC,5,27,0.73
+15,"Stanton, Lee and Smith",3,11,0.99
+15,"Stanton, Lee and Smith",4,15,0.73
+15,"Stanton, Lee and Smith",10,10,0.75
+16,Reilly-Williams,8,11,0.86
+16,Gray-Walker,9,1,0.81
+16,"Hernandez, Buchanan and Hoffman",13,3,0.91
+16,"Mclaughlin, Morgan and Chavez",15,28,0.86
+16,Jensen PLC,16,28,0.89
+16,Robinson and Sons,18,7,0.8
+16,Jordan-Glover,27,3,0.79
+16,Park LLC,28,4,0.89
+16,"Williams, Spears and Stevenson",29,16,0.78

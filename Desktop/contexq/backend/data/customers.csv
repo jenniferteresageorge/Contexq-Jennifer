@@ -1,0 +1,101 @@
+customer_id,customer_name,industry,region,join_date
+1,House-Kennedy,Finance,South America,2021-01-30
+2,"Ross, Harvey and Alvarez",Healthcare,Asia,2021-03-21
+3,Goodwin-Johnson,Technology,Oceania,2021-01-06
+4,"Kelley, Hodges and Bird",Manufacturing,Africa,2019-10-19
+5,King Ltd,Manufacturing,Europe,2021-09-30
+6,Flores Group,Retail,Europe,2020-12-16
+7,"Stewart, Ramos and Stein",Finance,Europe,2021-10-28
+8,Brady-Hampton,Retail,Africa,2021-08-26
+9,"Camacho, Berg and Rodgers",Finance,South America,2022-06-13
+10,"Potter, Sullivan and Fox",Finance,South America,2021-11-27
+11,Collins-Anderson,Manufacturing,Africa,2022-07-10
+12,Williams LLC,Manufacturing,North America,2022-10-22
+13,Garcia-Ramirez,Technology,Europe,2021-06-02
+14,"Reeves, Mitchell and Velez",Finance,Africa,2020-10-03
+15,Duffy Inc,Retail,South America,2020-01-07
+16,"Torres, Ochoa and Brown",Education,North America,2021-10-31
+17,"Gonzalez, Alvarado and Carpenter",Retail,Europe,2020-04-10
+18,Ball-Brewer,Education,Europe,2021-03-19
+19,"Hall, Mitchell and Nguyen",Manufacturing,Europe,2018-10-26
+20,"Poole, Harrison and Green",Retail,Africa,2019-01-24
+21,"Chambers, Compton and Benson",Manufacturing,Europe,2021-01-14
+22,Moore-Hall,Technology,Oceania,2019-04-14
+23,"Page, Ho and Rush",Retail,Europe,2018-11-18
+24,"Rowland, Elliott and Sullivan",Manufacturing,North America,2019-02-19
+25,"Greene, Cummings and Hatfield",Healthcare,North America,2018-11-02
+26,"Curtis, Conley and Mckinney",Education,Europe,2022-06-30
+27,"Kennedy, Smith and Hopkins",Manufacturing,North America,2019-03-18
+28,Madden-Lee,Retail,Europe,2019-11-23
+29,Williams and Sons,Finance,Africa,2020-08-23
+30,Cobb LLC,Finance,Asia,2018-08-25
+31,"Gonzalez, Harvey and Jackson",Manufacturing,Asia,2019-01-12
+32,Beard Ltd,Retail,Europe,2022-03-10
+33,"Morales, Austin and Collins",Healthcare,Asia,2022-12-10
+34,"Harrison, Miranda and Bell",Finance,North America,2020-07-15
+35,"Stanton, Walsh and Lewis",Retail,Asia,2022-10-27
+36,"Weaver, Haynes and Parks",Technology,North America,2021-12-26
+37,Long Ltd,Manufacturing,Africa,2021-02-02
+38,Rich-Richmond,Retail,Oceania,2021-08-22
+39,Moore Inc,Healthcare,Oceania,2020-03-06
+40,Johnson-Davis,Retail,Europe,2021-06-30
+41,"Carpenter, Munoz and Valentine",Finance,Europe,2018-02-07
+42,Jackson PLC,Technology,Europe,2018-08-27
+43,Booker-Morgan,Manufacturing,Asia,2022-09-20
+44,Cook PLC,Manufacturing,Europe,2020-11-10
+45,Gonzalez and Sons,Healthcare,Asia,2018-02-27
+46,Berry Ltd,Healthcare,Africa,2019-12-25
+47,Jackson Group,Healthcare,Africa,2022-06-15
+48,Hudson PLC,Technology,Oceania,2020-01-30
+49,Ramirez and Sons,Manufacturing,Oceania,2018-03-29
+50,Berg-Thompson,Manufacturing,Asia,2019-11-18
+51,Larson Group,Retail,Africa,2018-02-24
+52,Jackson Ltd,Technology,South America,2018-06-07
+53,Reynolds PLC,Manufacturing,North America,2021-04-23
+54,"Meyer, Stone and Phillips",Healthcare,Oceania,2021-08-24
+55,Mccullough-Bernard,Retail,Asia,2020-05-12
+56,"Miller, Lopez and Massey",Education,North America,2022-04-26
+57,Poole Group,Manufacturing,Africa,2021-06-19
+58,Maynard-Mcmahon,Technology,Africa,2018-09-07
+59,Jackson-Wilkinson,Retail,Oceania,2021-07-12
+60,Vance-Beltran,Retail,North America,2018-08-01
+61,Webb Group,Manufacturing,Europe,2021-09-16
+62,"Smith, Sanford and Mendoza",Manufacturing,Asia,2020-04-17
+63,"Trevino, Mooney and Torres",Technology,South America,2019-03-26
+64,Brown Group,Technology,Asia,2022-07-22
+65,"Adams, Thomas and Beck",Retail,North America,2020-06-10
+66,Hansen Inc,Education,North America,2020-09-22
+67,"West, Osborn and Jones",Healthcare,Europe,2022-12-11
+68,"Pittman, Alvarez and Armstrong",Technology,Africa,2019-01-10
+69,Mcclain-Moon,Healthcare,Africa,2021-10-23
+70,Finley LLC,Finance,Oceania,2019-11-10
+71,"Perez, Pearson and Thompson",Healthcare,North America,2018-12-25
+72,"Tyler, Patterson and Phillips",Manufacturing,Europe,2021-05-18
+73,"Baker, Campbell and Bell",Retail,Europe,2018-11-08
+74,Vasquez-Mcmahon,Finance,Europe,2020-01-25
+75,"Vargas, Clements and Pierce",Manufacturing,Oceania,2018-11-06
+76,Vincent-Foster,Technology,Oceania,2022-09-30
+77,Banks-Lopez,Healthcare,Asia,2021-12-09
+78,Oconnell-Kelly,Retail,North America,2019-12-03
+79,Ross and Sons,Technology,Africa,2020-03-09
+80,Simmons LLC,Healthcare,Oceania,2020-09-11
+81,Buck-Mclaughlin,Education,Oceania,2018-03-14
+82,Brooks Inc,Healthcare,Europe,2019-11-19
+83,"Myers, Thomas and Freeman",Retail,North America,2019-03-04
+84,"Burton, Stevens and Roberts",Education,Asia,2018-04-01
+85,Reid Group,Healthcare,Asia,2019-04-05
+86,Huber-Taylor,Manufacturing,Africa,2022-05-11
+87,Dixon-Mason,Technology,Asia,2020-10-24
+88,Harper-Campbell,Education,Asia,2019-12-04
+89,Watkins PLC,Technology,Asia,2020-06-12
+90,Reed and Sons,Technology,Africa,2020-06-24
+91,Williams-Conway,Finance,North America,2018-08-25
+92,Sloan Ltd,Finance,South America,2021-07-11
+93,Jones Inc,Healthcare,Africa,2020-03-21
+94,"Salinas, Vazquez and Haynes",Healthcare,Oceania,2018-08-02
+95,Lewis Inc,Manufacturing,Europe,2022-11-13
+96,Williamson-Ellis,Retail,Europe,2019-03-01
+97,"Stewart, Peterson and Barnes",Finance,Africa,2018-07-15
+98,"Davis, Bennett and Fry",Healthcare,Asia,2021-02-26
+99,Reyes-Townsend,Healthcare,Oceania,2020-09-25
+100,Williamson and Sons,Technology,Asia,2021-04-07

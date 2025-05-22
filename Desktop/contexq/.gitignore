@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.env
+.env.*
+
+# Node
+node_modules/
+build/
+dist/
+npm-debug.log
+
+# VS Code
+.vscode/
+
+# Mac / OS
+.DS_Store
+
+# Docker
+*.pid
+*.tar
